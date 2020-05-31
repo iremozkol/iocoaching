@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Our Company on IO Coaching | Turkish Psychologist in London</title>
-    <link>http://localhost:5000/tr/about/</link>
+    <link>https://iocoaching.com/tr/about/</link>
     <description>Recent content in About Our Company on IO Coaching | Turkish Psychologist in London</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     
-	<atom:link href="http://localhost:5000/tr/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iocoaching.com/tr/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
