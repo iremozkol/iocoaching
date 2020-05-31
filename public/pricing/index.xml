@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Pricing on IO Coaching | Turkish Psychologist in London</title>
-    <link>http://localhost:5000/pricing/</link>
+    <link>https://iremozkol.github.io/iocoaching/pricing/</link>
     <description>Recent content in Our Pricing on IO Coaching | Turkish Psychologist in London</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     
-	<atom:link href="http://localhost:5000/pricing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iremozkol.github.io/iocoaching/pricing/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
