@@ -1,7 +1,7 @@
 ---
-title: "How To Wear Bright Shoes"
+title: "How To giyilir Bright ayakkabi"
 date: 2018-09-24T11:07:10+06:00
-author: Mark Dinn
+author: Irem Ozkol
 image : "images/blog/blog-post-2.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Artificial Intelligence"]
@@ -11,8 +11,10 @@ draft: false
 type: "post"
 ---
 
+# Big header
+# This is an <h2> tag
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
+Lorem ***ipsum**() dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
 vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
 ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
 a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
@@ -28,13 +30,12 @@ nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pa
 at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
 eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+sub
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
 commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
