@@ -28,3 +28,19 @@
   translation: Tags
 - id: categories
   translation: Categories
+- id: about
+  translation: About
+- id: services
+  translation: Services
+- id: individual_counselling
+  translation: Individual Counselling
+- id: child_counseling
+  translation: Child Counseling
+- id: adolescent
+  translation: Adolescent
+- id: family
+  translation: Family/Couple
+- id: blog
+  translation: Blog
+- id: contact
+  translation: Contact

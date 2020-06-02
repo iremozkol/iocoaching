@@ -54,42 +54,42 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 
 # main menu
 [[menu.main]]
-name = "About"
+name = "about"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Project"
-URL = "project"
 weight = 2
+name = "services"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "services"
+  name = "individual_counselling"
+  URL = "individual-counselling"
+
+  [[menu.main]]
+  parent = "services"
+  name = "child_counseling"
+  URL = "child-counseling"
+
+  [[menu.main]]
+  parent = "services"
+  name = "adolescent"
+  URL = "adolescent"
+
+  [[menu.main]]
+  parent = "services"
+  name = "family"
+  URL = "family"
 
 [[menu.main]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[menu.main]]
-name = "Blog"
+name = "blog"
 URL = "blog"
 weight = 4
 
 [[menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
-  
-[[menu.main]]
-name = "Contact"
+name = "contact"
 URL = "contact"
 weight = 6
 
@@ -99,11 +99,6 @@ weight = 6
 name = "About"
 URL = "about"
 weight = 1
-
-[[menu.footer]]
-name = "Project"
-URL = "project"
-weight = 2
 
 [[menu.footer]]
 name = "Service"
