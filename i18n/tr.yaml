@@ -1,33 +1,33 @@
 - id: last_update
-  translation: Last updated
+  translation: Son Güncelleme
 - id: phone
-  translation: Phone
+  translation: Telefon
 - id: email
   translation: Email
 - id: location
-  translation: Location
+  translation: Konum
 - id: buy_now
   translation: Buy Now
 - id: address_title
   translation: Stop By For A visit
 - id: submit
-  translation: Send Message
+  translation: Gönder
 - id: all
-  translation: All
+  translation: Tümü
 - id: posted_by
-  translation: Posted By
+  translation: Tarafından Paylaşıldı
 - id: read_more
-  translation: Continue Reading
+  translation: Okumaya Devam Et
 - id: latest_posts
-  translation: Derniers articles
+  translation: Son Paylaşılanlar
 - id: page_prev
-  translation: Précédent
+  translation: Önceki Sayfa
 - id: page_next
-  translation: Suivant
+  translation: Sonraki Sayfa
 - id: tags
-  translation: Mots clefs
+  translation: Etiketler
 - id: categories
-  translation: Catégories
+  translation: Kategoriler
 - id: about
   translation: Hakkımızda
 - id: services
@@ -35,11 +35,11 @@
 - id: individual_counselling
   translation: Bireysel Danışmanlık
 - id: child_counseling
-  translation: Child Counseling
-- id: adolescent
-  translation: Adolescent
+  translation: Çocuk Psikolojisi
+- id: adolescent 
+  translation: Ergen Psikolojisi
 - id: family
-  translation: Family/Couple
+  translation: Aile/Çift Danışmanlığı
 - id: blog
   translation: Blog
 - id: blog
