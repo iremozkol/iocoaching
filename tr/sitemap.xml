@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iremozkol.github.io/iocoaching/tr/child-counseling/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/child-counseling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/tr/child-counseling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iremozkol.github.io/iocoaching/tr/family/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/family/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/tr/family/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iremozkol.github.io/iocoaching/tr/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/tr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iremozkol.github.io/iocoaching/tr/adolescent/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/adolescent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/tr/adolescent/"
+                />
+  </url>
+  
+  <url>
     <loc>https://iremozkol.github.io/iocoaching/tr/faq/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
@@ -18,17 +78,17 @@
   </url>
   
   <url>
-    <loc>https://iremozkol.github.io/iocoaching/tr/</loc>
+    <loc>https://iremozkol.github.io/iocoaching/tr/individual-counselling/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iremozkol.github.io/iocoaching/"
+                href="https://iremozkol.github.io/iocoaching/individual-counselling/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://iremozkol.github.io/iocoaching/tr/"
+                href="https://iremozkol.github.io/iocoaching/tr/individual-counselling/"
                 />
   </url>
   

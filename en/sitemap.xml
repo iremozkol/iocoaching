@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iremozkol.github.io/iocoaching/adolescent/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/tr/adolescent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/adolescent/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iremozkol.github.io/iocoaching/child-counseling/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/tr/child-counseling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/child-counseling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iremozkol.github.io/iocoaching/family/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/tr/family/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/family/"
+                />
+  </url>
+  
+  <url>
     <loc>https://iremozkol.github.io/iocoaching/faq/</loc>
     <lastmod>2020-03-23T13:05:29+06:00</lastmod>
     <xhtml:link
@@ -14,6 +59,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iremozkol.github.io/iocoaching/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iremozkol.github.io/iocoaching/individual-counselling/</loc>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/tr/individual-counselling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/individual-counselling/"
                 />
   </url>
   
