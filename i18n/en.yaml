@@ -35,11 +35,11 @@
 - id: individual_counselling
   translation: Individual Counselling
 - id: child_counseling
-  translation: Child Counseling
+  translation: Child Psychology
 - id: adolescent
-  translation: Adolescent
+  translation: Adolescent Psychology
 - id: family
-  translation: Family/Couple
+  translation: Family/Couple Counselling
 - id: blog
   translation: Blog
 - id: contact
