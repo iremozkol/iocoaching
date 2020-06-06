@@ -6,22 +6,13 @@ bg_image: "images/child-psychologists.jpg"
 profile_photo: "images/company/about_profile.jpg"
 ---
 
-**Helloooooooo**
+    I am a psychological councellor with over 3 years of experience in mental health. While I am based in Tottenham Hale, I am able to provide virtual appointments over Skype if you prefer. I was born in Gaziantep/Turkey. I obtained my undergraduate degree with honor degree at Yeditepe University in Istanbul, in the department of psychological counseling and guidance. I completed my master’s degree at Anglia Ruskin University in Cambridge, undertaking clinical child psychology. 
+    I started my career in 2013. I am trained in involve SEN children, as I worked at a private school for children with autism, dyslexia, ADHD and Down syndrome in Gaziantep, Turkey during 2013-2014 at Sehit Sahinbey Special Education School. In 2016, I worked as an intern at a family Court in Istanbul, Turkey. I was able to provide reports and observations on children who committed crimes. This role involved being able to differentiate whether these problems stemmed from mental health or family problems. Furthermore, I undertook a year of work placement in Istanbul at Cagdas Ogretim, training as a psychological counselor from 2016-2017.
+
+	Currently, I am still providing psychotherapeutic sessions to clients based in Tottenham, London. The areas of therapy I am expertise in involve anger management, stress, anxiety, grief, loss, and adjustment problems for migrants. Especially, One specific aspect of support that I am trained in is with child and adolescent consultants. 
+  I am a member of the British Psychology Society (BPS), and thus enabled to work within the framework of Professional Ethics and Standards. Throughout my career, I’ve attempted to develop and further my knowledge by attending clinical conferences and seminars.
 
 
-English about will be here. 
+Kind Regards
 
-
-Ruh saglığı üzerine bulunan 3 yılı aşkin deneyimimle birlikte Psikolojik danışma ve terapi hizmeti vermekteyim. 1992 yılında Gaziantep’te doğdum. 
-
-Lisans egitimimi İstanbul Yeditepe Üniversitesi'nde Rehberlik ve Psikolojik Danışmanlık bölümünde Onur derecesi ile tamamladım. Sonrasında ise Klinik Çocuk Psikolojisi alanında yüksek lisans eğitimimi Cambridge/İngilterede Anglia Ruskin Üniversitesinde tamamladim. Eğitim hayatım ve meslek hayatım süresince bir çok seminerlere ve kurslara katılarak mesleğimde tecrübe kazanıp kendimi geliştirme fırsatı yakaladım. Özel Eğitim ve Rehabilitasyon merkezlerinde stajyer olarak görev aldım. Bununla beraber bir çok okul ve kliniklerde staj yaptim. 2015-2016 yılları arasında İstanbul Kartal Anadolu Adalet Sarayı'nda Aile Mahkemelerinde yer alarak uzman raporları yazılmasında görev aldım. Meslek hayatıma özel bir okulda Psikolojik Danışman olarak başladıktan sonra, bireysel olarak psikoterapi hizmeti vermeye basladim. 
-Yuksek lisans eğitiminden sonra uzmanlığım çocuk olmasının yanı sıra ergen ve yetişkin terapisi desteği sunmaya başladım.
-
-Yaşamın ilk anından başlayarak kişinin bakimvereni/ailesiyle geliştirdigi bağın bireyin gelecek yıllardaki yaşantısına öneminin son derecede farkında olan bir birey olarak ve bu alana duyduğum özel bir ilgiden dolayi yüksek lisans tez projemi “Bireylerin bağlanma biçimlerine göre kişinin yaşamının ilerleyen yıllarında oluşan kisilerarası boşluğa ve buna olan etkisi” uzerine bir calisma tamamladim.
-Mesleğin getirdiği standartlara ve etik kurallara uymak adına ve buna olan duyarlılığımın bir parçası olarak İngiliz Psikologlar Derneğinin (British Psychology Society) bir üyesi olarak terapi desteği sunmaya devam edeceğim.
-
-Saygılarımla
-
-Uzman Psikolog İREM ÖZKOL
-
-
+Irem Ozkol
