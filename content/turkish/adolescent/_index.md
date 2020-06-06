@@ -1,5 +1,5 @@
 ---
-title: "ERGEN PSIKOLOJISI"
+title: "Ergen Psikolojisi"
 description: ""
 subtitle : ""
 date: 2019-12-23T13:05:29+06:00
