@@ -2,15 +2,17 @@
 title: "Ergen Psikolojisi"
 description: ""
 subtitle : ""
-date: 2019-12-23T13:05:29+06:00
+date: 2020-06-09T13:05:29+06:00
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/content/adolescent_header.jpg"
 ---
 
-### Ergen Psikolojisi
+# Ergen Psikolojisi
 
 
 Ergenlik donemi cocuklukla yetiskinlik arasinda bir kopru gorevi kuran ve bireyin kisilik olusumunda buyuk etkisi olan bir donemdir. Hem bedensel hem de duygusal degisimlerdeki hiz bireyde catismalara sebep olabilmektedir.
+
+![Adolescent Psychology](/iocoaching/images/content/adolescent_header.jpg "Adolescent Psychology")
 
 ### Ergen Terapisinde Hedeflenen Nedir?
 

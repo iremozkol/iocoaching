@@ -2,17 +2,19 @@
 title: "Adolescent Psychology"
 description: ""
 subtitle : ""
-date: 2020-03-23T13:05:29+06:00
+date: 2020-06-09T13:05:29+06:00
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/content/adolescent_header.jpg"
 ---
 
 
-### Adolescent Psychology
+# Adolescent Psychology
 
 
    Adolescence is a period that creates a bridge between childhood and adulthood and has a significant effect on the individuals personality. The high rate in physical and emotional changes can cause conflicts in the individual. 
    
+   
+![Adolescent Psychology](/iocoaching/images/content/adolescent_header.jpg "Adolescent Psychology")
 ### What Is The Purpose of The Adolescent Therapy?
    
    The purpose of adolescent therapy is to provide emotional support to the adolescent in order to understand themselves better, and to help establish healthy relations. It also supports solving the adolescent's own or family conflicts. Within the scope of Adolescent Therapy services such as Family-Adolescent Conflicts, Friend Problems, Self-confidence Problems, Obsessions and Personality Disorders are provided.

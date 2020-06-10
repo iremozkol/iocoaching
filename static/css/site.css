@@ -21,3 +21,16 @@ body p {
     margin-bottom: 15px;
 }
 
+.dropdown-menu{
+    min-width: 205px;
+}
+
+.site-content img{
+    max-width: 100%;
+    margin: 20px auto;
+}
+
+.multilingual-container{
+    display: block;
+    overflow: hidden;
+}

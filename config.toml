@@ -4,6 +4,9 @@ title = "IO Coaching | Turkish Psychologist in London"
 theme = "airspace-hugo"
 
 
+defaultContentLanguage = "tr"
+LanguageCode = "tr"
+
 
 # post pagination
 paginate = "4"
@@ -75,13 +78,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "services"
-  name = "adolescent"
-  URL = "adolescent"
-
-  [[menu.main]]
-  parent = "services"
-  name = "family"
-  URL = "family"
+  name = "Adolescent psychology"
+  URL = "adolescent-psychology"
 
 [[menu.main]]
 name = "blog"
@@ -126,11 +124,11 @@ weight = 6
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Irem Ozkol - IOCoaching"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+mobile = ""
+email = "info@iocoaching.com"
+location = "London"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -184,22 +182,24 @@ icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+[languages]
+################################ Turkish Language ########################
+    [Languages.tr]
+        languageName = "Türkçe"
+        languageCode = "tr-tr"
+        contentDir = "content/turkish"
+        weight = 1
+        home = "Anasayfa"
+        # copyright
+        copyright = "IOCoaching | Tüm hakları saklıdır."
 
-################################ France Language ########################
-[Languages.tr]
-languageName = "Tr"
-languageCode = "tr-tr"
-contentDir = "content/turkish"
-weight = 2
-home = "Anasayfa"
-# copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+
+################################ English Language ########################
+    [Languages.en]
+        languageName = "English"
+        languageCode = "en-gb"
+        contentDir = "content/english"
+        weight = 2
+        home = "Home"
+        # copyright
+        copyright = "Copyright IOCoaching All Rights Reserved"
