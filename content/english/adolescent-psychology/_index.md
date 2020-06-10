@@ -8,9 +8,6 @@ bg_image: "images/content/adolescent_header.jpg"
 ---
 
 
-# Adolescent Psychology
-
-
    Adolescence is a period that creates a bridge between childhood and adulthood and has a significant effect on the individuals personality. The high rate in physical and emotional changes can cause conflicts in the individual. 
    
    

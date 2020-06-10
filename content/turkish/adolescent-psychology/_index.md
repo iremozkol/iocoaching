@@ -7,9 +7,6 @@ draft: false
 bg_image: "images/content/adolescent_header.jpg"
 ---
 
-# Ergen Psikolojisi
-
-
 Ergenlik donemi cocuklukla yetiskinlik arasinda bir kopru gorevi kuran ve bireyin kisilik olusumunda buyuk etkisi olan bir donemdir. Hem bedensel hem de duygusal degisimlerdeki hiz bireyde catismalara sebep olabilmektedir.
 
 ![Adolescent Psychology](/iocoaching/images/content/adolescent_header.jpg "Adolescent Psychology")
