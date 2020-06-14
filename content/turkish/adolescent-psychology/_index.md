@@ -11,12 +11,12 @@ Ergenlik donemi cocuklukla yetiskinlik arasinda bir kopru gorevi kuran ve bireyi
 
 ![Adolescent Psychology](/iocoaching/images/content/adolescent_header.jpg "Adolescent Psychology")
 
-### Ergen Terapisinde Hedeflenen Nedir?
+## Ergen Terapisinde Hedeflenen Nedir?
 
 Ergen terapisinde amac duygusal olarak destek saglayarak ergenin kendini daha iyi tanimasini saglamak, saglikli iliskiler kurabilmesine yardimci olmaktir. Ayni zamanda ergenin kendi icindeki veya aile icindeki catismalarini cozmeye destek olmaktadir.
 
 
-### Ergen Terapisi Ne Kadar Sürmektedir?
+## Ergen Terapisi Ne Kadar Sürmektedir?
  
   Terapi surecinin uzunlugu problemin siddeti ve karmasikligina bagli olarak degisebilmektedir. Terapi sureci ailenin ve ergenin ihtiyacina gore duzenlenmektedir.
   

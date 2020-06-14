@@ -12,10 +12,12 @@ bg_image: "images/content/adolescent_header.jpg"
    
    
 ![Adolescent Psychology](/iocoaching/images/content/adolescent_header.jpg "Adolescent Psychology")
-### What Is The Purpose of The Adolescent Therapy?
+
+
+## What Is The Purpose of The Adolescent Therapy?
    
    The purpose of adolescent therapy is to provide emotional support to the adolescent in order to understand themselves better, and to help establish healthy relations. It also supports solving the adolescent's own or family conflicts. Within the scope of Adolescent Therapy services such as Family-Adolescent Conflicts, Friend Problems, Self-confidence Problems, Obsessions and Personality Disorders are provided.
    
-### How Long Does Adolescent Therapy Last?
+## How Long Does Adolescent Therapy Last?
 
    The length of the therapy process can vary depending on the severity and complexity of the problem. The therapy process is organized according to the needs of the family and the adolescent.

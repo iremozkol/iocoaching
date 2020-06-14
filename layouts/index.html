@@ -14,7 +14,7 @@
           <p>{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | relLangURL }}" target="_blank" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
           {{ end }}
           {{ end }}
         </div>
@@ -47,37 +47,42 @@
         </div>
       </div>
     </div>
+    <div class="row mt-30">
+      {{ range .study_logos }}
+        <div class="col-sm-6 col-md-4">
+          <img src="{{ .image | relURL }}" alt="{{ .name }}" class="img-responsive">
+        </div>
+      {{ end }}
+    </div>
   </div>
+
 </section>
 <!-- /about -->
 {{ end }}
 {{ end }}
 
-{{ if $data.homepage.portfolio.enable }}
-{{ with $data.homepage.portfolio }}
-<!-- portfolio -->
-<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}')">
+<!-- Service -->
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.service.service }}
+<section class="service">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-6">
-        <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
-        {{ .content | markdownify }}
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
+      <div class="section-title">
+        <h2>{{ .title | markdownify }}</h2>
+        <p>{{ .description | markdownify }}</p>
       </div>
+    </div>
+    <div class="row">
+      {{ range .service_item }}
+        <div class="col-sm-6 col-md-4">
+          <div class="service-item study-items">
+            <img src="{{ .logo }}" alt="{{ .name }}">
+          </div>
+        </div>
+      {{ end }}
     </div>
   </div>
 </section>
-<!-- /portfolio -->
-{{ end }}
-{{ end }}
-
-<!-- Service -->
-{{ if $data.homepage.service.enable }}
-{{ partial "service.html" . }}
 {{ end }}
 <!-- /service -->
 
