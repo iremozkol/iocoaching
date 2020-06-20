@@ -14,4 +14,5 @@ I am a member of the British Psychology Society (BPS) and British Association fo
 
 *Kind Regards*
 
-Irem Ozkol
+Irem Ozkol ( B.A, MSc, MBPsS, MBACP)
+   
