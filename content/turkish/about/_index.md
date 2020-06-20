@@ -17,4 +17,6 @@ Mesleğin getirdiği standartlara ve etik kurallara uymak adına ve buna olan du
 
 Saygılarımla
 
-Uzman Psikolog İrem Özkol
+İrem Özkol
+
+Uzman Psikolog ( B.A, MSc, MBPsS, MBACP)
