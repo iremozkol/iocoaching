@@ -126,8 +126,8 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Irem Ozkol - IOCoaching"
 # Contact Information
-mobile = ""
-email = "info@iocoaching.com"
+mobile = "+447447752169"
+email = "info@iocoaching.co.uk"
 location = "London"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
