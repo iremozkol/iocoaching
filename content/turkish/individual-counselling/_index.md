@@ -8,14 +8,10 @@ bg_image: "images/featue-bg.jpg"
 ---
 
 
-## Bireysel Danışmanlık
+## Bireysel Danışmanlık 
 
-  Bireysel Psikolojik danışmada kendi icinde yasadiginiz tikanikliklarin ve problemlerin cozumlenmesine odaklanir ve bireye sorunlarla basa cikma becerisi kazandirilir. Psikolojik danisma ile birlikte kendinizi anlamaya uzanan yolu bulup, yasam kalitenizi farkindalik kazanarak arttirmaniz ve daha uyumlu ve saglikli bir yasam surmeniz desteklenmektedir.
+Bireysel Psikolojik danışmada kendi içinde yasadığınız tıkanıklıkların ve problemlerin çözümlenmesine odaklanir ve bireye sorunlarla başa çıkma becerisi kazandırılır. Psikolojik danışma ile birlikte kendinizi anlamaya uzanan yolu bulup, yaşam kalitenizi farkindalik kazanarak arttırmanız ve daha uyumlu ve sağlıklı bir yaşam sürmeniz desteklenmektedir.
 
-Ozel, sosyal, akademik ve is yasami problemleri, uyum problemleri, kaygi bozukluklari, panik atak, travma yasantilari, depresyon, mutsuzluk, kayip ve yas sureci gibi alanlarda bireysel danismanlik hizmeti sunulmaktadir.
+ÖZel, sosyal, akademik ve iş yasami problemleri, uyum problemleri, kaygı bozuklukları, panik atak, travma yaşantıları, depresyon, mutsuzluk, kayıp ve yas süreci gibi alanlarda bireysel danışmanlık hizmeti sunulmaktadir.
 
-
-## Bireysel Danışmanlık Ne Kadar Sürmektedir?
-
-
-•	Bireysel Danisma psikoterapi seans suresi 45-50 dakika arasindadir. Problemin ve ihtiyacin nitelegine gore haftada bir ya da iki kez sunulabilir
+Bireysel Danışma psikoterapi seans süresi 45-50 dakika arasindadir. Problemin ve ihtiyacin niteleğine göre haftada bir ya da iki kez sunulabilir.
