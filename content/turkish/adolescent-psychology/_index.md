@@ -8,11 +8,11 @@ bg_image: "images/content/adolescent_header.jpg"
 ---
 ## Ergen Terapisi ##
 
-Ergenlik donemi cocuklukla yetiskinlik arasinda bir kopru gorevi kuran ve bireyin kisilik olusumunda buyuk etkisi olan bir donemdir. Hem bedensel hem de duygusal degisimlerdeki hiz bireyde catismalara sebep olabilmektedir.
-Ergen terapisinde amac duygusal olarak destek saglayarak ergenin kendini daha iyi tanimasini saglamak, saglikli iliskiler kurabilmesine yardimci olmaktir. Ayni zamanda ergenin kendi icindeki veya aile icindeki catismalarini cozmeye destek olmaktadir.  
-Ergen Terapisi Kapsaminda;
-Aile-Ergen Catismalari, Arkadas Problemleri, Ozguven Problemi, Takintilar, Kisilik Bozukluklari gibi konularda hizmet sunulmaktadir.
+Ergenlik dönemi çocuklukla yetiskinlik arasında bir köprü görevi kuran ve bireyin kişilik oluşumunda büyük etkisi olan bir dönemdir. Hem bedensel hem de duygusal değişimlerdeki hız bireyde çatışmalara sebep olabilmektedir.
+Ergen terapisinde amaç duygusal olarak destek sağlayarak ergenin kendini daha iyi tanımasını sağlamak, saglıklı ilişkiler kurabilmesine yardımcı olmaktır. Aynı zamanda ergenin kendi icindeki veya aile içindeki çatışmalarını çözmeye destek olmaktadır.  
+Ergen Terapisi Kapsamında;
+Aile-Ergen Çatışmaları, Arkadaş Problemleri, Özgüven Problemi, Takıntılar, Kişilik Bozukluklari gibi konularda hizmet sunulmaktadır.
 
-Terapi surecinin uzunlugu problemin siddeti ve karmasikligina bagli olarak degisebilmektedir. Terapi sureci ailenin ve ergenin ihtiyacina gore duzenlenmektedir.
+Terapi sürecinin uzunluğu problemin şiddeti ve karmaşıklığına bağlı olarak degişebilmektedir. Terapi süreci ailenin ve ergenin ihtiyacina gore düzenlenmektedir.
 
 
