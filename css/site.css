@@ -84,3 +84,7 @@ body p {
     width: auto;
     margin: 0 auto;
 }
+
+.overly:before, .slider:before, .page-title:before{
+    opacity: 0 !important;
+}
