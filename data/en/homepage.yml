@@ -1,8 +1,8 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
-  title : "Turkish Psychologist in London"
+  bg_image : "images/company/banner.jpg"
+  title : "Individual, Child and Adolescent Psychology and Therapy Services"
   content : "We love the Web and the work we do. <br/> We work closely with our clients to deliver  the best possible solutions for their needs"
   button:
     enable : true
@@ -16,6 +16,8 @@ about:
   content : "I am a psychological councellor with over 3 years of experience in mental health. While I am based in Tottenham Hale, I am able to provide virtual appointments over Skype if you prefer. I was born in Gaziantep/Turkey. I obtained my undergraduate degree with honor degree at Yeditepe University in Istanbul, in the department of psychological counseling and guidance. I completed my master’s degree at Anglia Ruskin University in Cambridge, undertaking clinical child psychology."
   image : "images/company/about_profile.jpg"
   study_logos:
+    - name: The British Psychological
+      image: "images/portfolio/study4.jpg"
     - name: The British Psychological
       image: "images/portfolio/study3.jpg"
     - name: Yeditepe University

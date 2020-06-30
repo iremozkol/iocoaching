@@ -22,13 +22,20 @@
             <div class="row">
               <div class="col-md-8 social-media-nav pull-right">
                 <ul class="nav navbar-nav navbar-right social-navbar">
-                  <li>TR</li>
-                  <li>EN</li>
-                  <li><i class="ion-social-instagram"></i></li>
-                  <li><i class="ion-social-facebook"></i></li>
+                  <li><a href="https://www.instagram.com/io.coaching/" target="_blank"><i class="ion-social-instagram"></i></a></li>
+                  <li><a href="https://www.facebook.com/IOCoaching-102738391421507/" target="_blank"><i class="ion-social-facebook"></i></a></li>
+
+                  {{ $siteLanguages := .Site.Languages}}
+                  {{ $pageLang := .Page.Lang}}
+                  {{ range .Page.AllTranslations }}
+                    {{ $translation := .}}
+                    {{ $flagPath := "images/flags/" }}
+                    <li><a href="{{ $translation.Permalink }}" {{ if eq $pageLang .Lang}} class="active" {{ end }}><img src="{{ $flagPath | absURL }}{{ $translation.Language }}.png"></a></li>
+                  {{ end }}
+
                 </ul>
               </div>
-              <div class="col-md-8 menu-nav pull-right">
+              <div class="col-md-8 menu-nav">
                 <ul class="nav navbar-nav navbar-right">
                   <li><a href="{{ .Site.BaseURL | absLangURL }}">{{ .Site.Params.home }} </a></li>
 
@@ -47,33 +54,6 @@
                   <li><a href="{{ .URL | absLangURL }}">{{ if i18n .Name }}{{ i18n .Name }}{{ else }} {{ .Name }} {{ end }}</a></li>
                   {{ end }}
                   {{ end }}
-
-                  <!-- Language List -->
-<!--                  {{- if .Site.IsMultiLingual }}-->
-<!--                  <li>-->
-<!--                    <select id="select-language" onchange="location = this.value;">-->
-<!--                      {{ $siteLanguages := .Site.Languages}}-->
-<!--                      {{ $pageLang := .Page.Lang}}-->
-<!--                      {{ range .Page.AllTranslations }}-->
-<!--                      {{ $translation := .}}-->
-<!--                      {{ range $siteLanguages }}-->
-<!--                      {{ if eq $translation.Lang .Lang }}-->
-<!--                      {{ $selected := false }}-->
-<!--                      {{ if eq $pageLang .Lang}}-->
-<!--                      <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>-->
-<!--                        {{ .LanguageName }}-->
-<!--                      </option>-->
-<!--                      {{ else }}-->
-<!--                      <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}-->
-<!--                      </option>-->
-<!--                      {{ end }}-->
-<!--                      {{ end }}-->
-<!--                      {{ end }}-->
-<!--                      {{ end }}-->
-<!--                    </select>-->
-<!--                  </li>-->
-<!--                  {{ end }}-->
-
                 </ul>
               </div>
             </div><!-- /.row -->

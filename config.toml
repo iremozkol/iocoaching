@@ -187,6 +187,7 @@ link = "#"
     [Languages.tr]
         languageName = "Türkçe"
         languageCode = "tr-tr"
+        flagURL = "flags/tr.png"
         contentDir = "content/turkish"
         weight = 1
         home = "Anasayfa"
@@ -198,6 +199,7 @@ link = "#"
     [Languages.en]
         languageName = "English"
         languageCode = "en-gb"
+        flagURL= "flags/en.png"
         contentDir = "content/english"
         weight = 2
         home = "Home"

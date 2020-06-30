@@ -5,16 +5,15 @@
 <!-- banner -->
 {{ if $data.homepage.banner.enable }}
 {{ with $data.homepage.banner }}
-<section class="slider" style="background-image: url('{{ .bg_image | absURL }}');">
+<section class="slider" style="background-image: url('{{ .bg_image | absURL }}');background-position: top;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1>{{ .title | markdownify }}</h1>
-          <p>{{ .content | markdownify }}</p>
+          <h1 class="hero-title"><span>{{ .title | markdownify }}</span></h1>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          <a href="{{ .link | relLangURL }}" class="btn btn-main btn-main-2 mt-40 btn-large animated fadeInUp">{{ .label }}</a>
           {{ end }}
           {{ end }}
         </div>

@@ -2,15 +2,30 @@ header.navigation{
     padding: 20px 0 30px 0;
 }
 
-.social-navbar li{
+header.navigation .social-navbar li{
     float: left;
-    margin: 5px;
+    margin: 5px 12px;
+    font-size: 16px;
+}
+
+header.navigation .social-navbar li a{
+    padding: 0 !important;
+    font-size: 16px !important;
+}
+
+header.navigation .social-navbar li a i{
+    font-size: 22px
+}
+
+header.navigation .social-navbar img{
+    height: 16px;
 }
 
 .logo-text{
     font-size: 10.3px;
     font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
     font-weight: bold;
+    font-style: italic;
 }
 
 .navigation .navbar-brand{
@@ -26,11 +41,26 @@ header.navigation{
 .menu-nav{
     padding-right: 0;
     margin-top: 20px;
+    float: right;
+}
+
+@media(max-width:767px){
+    .menu-nav{
+        float: left;
+    }
 }
 
 header.navigation .menu-nav .navbar-nav>li>a {
     font-size: 16px;
 }
+
+.slider .hero-title {
+    padding: 10px;
+    background: rgba(43, 93, 115, .7);
+    color: #ffffff;
+    font-weight: 300 !important;
+}
+
 
 .bg-2{
     background-position: 0 -60px;
@@ -87,4 +117,16 @@ body p {
 
 .overly:before, .slider:before, .page-title:before{
     opacity: 0 !important;
+}
+
+
+.btn-main.btn-main-2 {
+    background: #d1f6f5;
+    color: #333333;
+    font-size: 18px;
+}
+
+.btn-main.btn-main-2:hover {
+    background: #3d4747;
+    color: #d1f6f5;
 }
