@@ -7,7 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;1,400&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
