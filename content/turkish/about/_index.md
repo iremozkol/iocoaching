@@ -13,7 +13,7 @@ Ruh sağlığı üzerine bulunan 3 yılı aşkin deneyimimle birlikte Psikolojik
 Yuksek lisans eğitiminden sonra uzmanlığım çocuk olmasının yanı sıra ergen ve yetişkin terapisi desteği sunmaya başladım.
 
 Yaşamın ilk anından başlayarak kişinin bakimvereni/ailesiyle geliştirdigi bağın bireyin gelecek yıllardaki yaşantısına öneminin son derecede farkında olan bir birey olarak ve bu alana duyduğum özel bir ilgiden dolayi yüksek lisans tez projemi “Bireylerin bağlanma biçimlerine göre kişinin yaşamının ilerleyen yıllarında oluşan kisilerarası boşluğa ve buna olan etkisi” üzerine bir çalışma tamamladim.
-Mesleğin getirdiği standartlara ve etik kurallara uymak adına ve buna olan duyarlılığımın bir parçası olarak İngiliz Psikologlar Derneği(British Psychology Society) ve İngiliz Danışmanlık ve Psikoterapi Derneği(British Association Counselling and Psychotherapy)  bir üyesi olarak terapi desteği sunmaya devam edeceğim.
+Mesleğin getirdiği standartlara ve etik kurallara uymak adına ve buna olan duyarlılığımın bir parçası olarak İngiliz Psikologlar Derneği(British Psychology Society) ve İngiliz Danışmanlık ve Psikoterapi Derneğinin (British Association Counselling and Psychotherapy) bir üyesi olarak terapi desteği sunmaya devam edeceğim.
 
 Saygılarımla
 
