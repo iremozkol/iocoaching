@@ -5,9 +5,20 @@
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="title" content="{{ .Title }}">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  <meta name="keywords" content="{{ .Site.Params.meta_keywords_tr }}">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="Psychotherapy & Counselling">
+  <meta property="og:url" content="{{ .Site.Params.domain }}">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  <meta property="og:image" content="{{ .Site.Params.Logo | absURL }}">
+
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Varela+Round&display=swap" rel="stylesheet">
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }}">

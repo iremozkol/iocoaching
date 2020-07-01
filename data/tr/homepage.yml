@@ -2,8 +2,8 @@
 banner:
   enable : true
   bg_image : "images/company/banner.jpg"
-  title : "Bireysel, Çocuk ve Ergen Psikolojisi ve Terapi Servisi"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "ÇOCUK, ERGEN, YETİŞKİN PSİKOLOJİSİ VE TERAPİ SERVİSİ"
+  content : "-- YAŞANTINIZI YENİDEN KEŞFETMEYE --"
   button:
     enable : true
     label : "Randevu Al"
@@ -12,7 +12,7 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : " -- Yaşantınızı yeniden keşfetmeye -- "
+  title : "Merhabalar"
   content_1 : "Psikoterapi kendiniz ile ilgili değer yargılarınızı, inanç ve
                             düşünce biçimlerinizi bir profesyonel yardımıyla
                             anlamlandırdığınız ve keşfettiginiz bir süreçtir."
@@ -32,21 +32,23 @@ about:
              unutmayın. Kendiniz için ilk adımı atmaktan ve yardım
              istemekten asla çekinmeyin."
 
-  image : "images/company/about_profile.jpg"
-  study_logos:
-    - name: The British Psychological
-      image: "images/portfolio/study4.jpg"
-    - name: BACP
-      image: "images/portfolio/study3.jpg"
-    - name: Yeditepe University
-      image: "images/portfolio/study1.jpg"
-    - name: Anglia Ruskin University
-      image: "images/portfolio/study2.jpg"
+  image : "images/portfolio/homepage_profile.jpg"
 
 ############################# Service ############################
 service:
   enable : true
   # service content comes from "data/*/service.yml" file
+
+
+study_logos:
+  - name: The British Psychological
+    image: "images/portfolio/study4.jpg"
+  - name: BACP
+    image: "images/portfolio/study3.jpg"
+  - name: Yeditepe University
+    image: "images/portfolio/study1.jpg"
+  - name: Anglia Ruskin University
+    image: "images/portfolio/study2.jpg"
 
 
 ############################ call to action ###########################

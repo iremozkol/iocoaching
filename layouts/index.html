@@ -11,9 +11,10 @@
       <div class="col-md-12">
         <div class="block">
           <h1 class="hero-title"><span>{{ .title | markdownify }}</span></h1>
+          <p class="hero-desc"><span> {{ .content | markdownify }} </span></p>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | relLangURL }}" class="btn btn-main btn-main-2 mt-40 btn-large animated fadeInUp">{{ .label }}</a>
+          <a href="{{ .link | relLangURL }}" class="btn btn-main btn-main-2 mt-20 btn-large animated fadeInUp">{{ .label }}</a>
           {{ end }}
           {{ end }}
         </div>
@@ -31,7 +32,7 @@
 <section class="about section">
   <div class="container">
     <div class="row text-row">
-      <div class="col-lg-offset-1 col-lg-10">
+      <div class="col-lg-6">
         <div class="block">
           <div class="section-title">
             <h2>{{ .title | markdownify }}</h2>
@@ -43,15 +44,10 @@
           <p>{{ .content_4 | markdownify }}</p>
         </div>
       </div>
-    </div>
-    <div class="row mt-50">
-      {{ range .study_logos }}
-        <div class="col-sm-6 col-md-3 image-block">
-          <div class="border-box">
-            <img src="{{ .image | relURL }}" alt="{{ .name }}" class="img-responsive">
-          </div>
-        </div>
-      {{ end }}
+      <div class="col-lg-6">
+        <img src="{{ .image | absURL }}" class="img-responsive mt-40">
+      </div>
+
     </div>
   </div>
 
@@ -63,19 +59,23 @@
 <!-- Service -->
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.service.service }}
-<section class="service">
+<section class="service services-grid">
   <div class="container">
     <div class="row">
       <div class="section-title">
         <h2>{{ .title | markdownify }}</h2>
-        <p>{{ .description | markdownify }}</p>
       </div>
     </div>
     <div class="row">
       {{ range .service_item }}
-        <div class="col-sm-6 col-md-4">
-          <div class="service-item study-items">
-            <img src="{{ .logo }}" alt="{{ .name }}">
+        <div class="col-lg-offset-1 col-lg-10 service-item">
+          <div class="block border-radius-10">
+            <a href="{{ .url | absLangURL }}" class="link-header" style="background-image: url('{{ .image | absURL }}'); background-position: 0 -30px;">
+              <span class="service-link-text">
+                {{ if i18n .name }}{{ i18n .name }}{{ else }} {{ .name }} {{ end }}
+              </span>
+            </a>
+            <p class="desc">{{ .content }} ... <a href="{{ .url | absLangURL }}" class="btn btn-link">{{ i18n "read_more" }}</a></p>
           </div>
         </div>
       {{ end }}
@@ -85,57 +85,21 @@
 {{ end }}
 <!-- /service -->
 
-<!-- Call to action -->
-{{ if $data.homepage.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
-<!-- /Call to action -->
-
-{{ if $data.homepage.funfacts.enable }}
-{{ with $data.homepage.funfacts }}
-<!-- Content Start -->
-<section class="testimonial">
+<section class="study">
   <div class="container">
-    <div class="row">
-      <div class="section-title text-center">
-        <h2>{{ .title | markdownify }}</h2>
-        <p>{{ .description | markdownify }}</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="block">
-          <ul class="counter-box clearfix">
-            {{ range .funfact_item }}
-            <li class="counter-item">
-              <i class="{{ .icon }}"></i>
-              <h4 class="count" data-count="{{ .count }}">0</h4>
-              <span>{{ .name | markdownify }}</span>
-            </li>
-            {{ end }}
-          </ul>
+    <div class="row mt-30" style="padding-bottom: 40px">
+      {{ range $data.homepage.study_logos }}
+      <div class="col-sm-6 col-md-3 image-block">
+        <div class="border-box">
+          <img src="{{ .image | absURL }}" alt="{{ .name }}" class="img-responsive">
         </div>
       </div>
-      <div class="col-md-5 col-md-offset-1">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            {{ range .testimonial_slider }}
-            <div>
-              <i class="ion-quote"></i>
-              <p>"{{ .content | markdownify }}"</p>
-              <div class="user">
-                <img src="{{ .image | relURL }}" alt="client">
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
+      {{ end }}
     </div>
   </div>
 </section>
-{{ end}}
-{{ end}}
+
+
+
 
 {{ end }}

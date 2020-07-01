@@ -1,6 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://iremozkol.github.io/iocoaching"
 title = "Psychotherapy & Counselling - IO Coaching | Turkish Psychologist in London"
+profile = ''
 theme = "airspace-hugo"
 
 
@@ -78,7 +79,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "services"
-  name = "Adolescent psychology"
+  name = "adolescent"
   URL = "adolescent-psychology"
 
 [[menu.main]]
@@ -135,6 +136,9 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
+domain='http://iocoaching.co.uk'
+meta_keywords_tr="Türkçe Psikoterapi, terapi Londra, Uzman Türk Psikolog Londra, Londra Türkce Terapi Danismanlik, Uzman Psikolog İrem Özkol ,Londra Ingiltere Turk Psikolog, Turkce Terapi, Bireysel Danışmanlık, Çocuk Terapisi, Ergen Terapisti"
+meta_keywords_en="English Psychotherapy, Counseling, London, Therapy, MSc Clinical Child Psychology, London Turkish Psychologist, Child Psychology, Adolescent Psychology, Teenager, Individual Counselling"
 
 # Preloader
 [params.preloader]

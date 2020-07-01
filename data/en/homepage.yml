@@ -2,18 +2,37 @@
 banner:
   enable : true
   bg_image : "images/company/banner.jpg"
-  title : "Individual, Child and Adolescent Psychology and Therapy Services"
-  content : "We love the Web and the work we do. <br/> We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "CHILD,ADOLESCENT, ADULT PSYCHOLOGY AND PSYCHOTHERAPY SERVİCES"
+  content : "-- YAŞANTINIZI YENİDEN KEŞFETMEYE --"
   button:
     enable : true
     label : "Schedule Appointment"
-    link : "project"
+    link : "contact"
 
 ############################# About #################################
 about:
   enable : true
   title : "Hello"
-  content : "I am a psychological councellor with over 3 years of experience in mental health. While I am based in Tottenham Hale, I am able to provide virtual appointments over Skype if you prefer. I was born in Gaziantep/Turkey. I obtained my undergraduate degree with honor degree at Yeditepe University in Istanbul, in the department of psychological counseling and guidance. I completed my master’s degree at Anglia Ruskin University in Cambridge, undertaking clinical child psychology."
+  content_1 : "Psikoterapi kendiniz ile ilgili değer yargılarınızı, inanç ve
+                            düşünce biçimlerinizi bir profesyonel yardımıyla
+                            anlamlandırdığınız ve keşfettiginiz bir süreçtir."
+  content_2: "Danışanla birlikte bir işbilirliği içerisinde
+                           yürütülmesinin temel alındığı terapi sürecinde esas
+                           önemli olanın her bireyin sürecinin, ihtiyacının ve
+                           yeteneklerinin değişkenliğinin farkinda olmak ve
+                           buna göre hareket etmektir."
+  content_3: "Sunduğum terapi desteği ile hem kendinizle hem de
+                           baskalarıyla olan duygusal ve davranışsal sorunların
+                           çözümünü bulabileceksiniz. Bu süreçte kişisel
+                           yasantılarınızı hiçbir yargılama olmadan gizlilik ve
+                           güven duygusu içerisinde paylaşıp
+                           keşfedebileceksiniz."
+  content_4 : "Her bireyin zaman zaman zorlu dönemlerle baş etmekte
+             zorlanabileceğini ve bunun normal bir durum olduğunu
+             unutmayın. Kendiniz için ilk adımı atmaktan ve yardım
+             istemekten asla çekinmeyin."
+
+  image : "images/portfolio/homepage_profile.jpg"
   image : "images/company/about_profile.jpg"
   study_logos:
     - name: The British Psychological
