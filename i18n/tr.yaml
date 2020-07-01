@@ -42,3 +42,9 @@
   translation: Blog
 - id: contact
   translation: İletişim
+- id: name
+  translation: İsminiz
+- id: your_message
+  translation: Mesajınız
+- id: phone_optional
+  translation: Telefonunuz (İsteğe bağlı)

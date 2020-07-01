@@ -44,3 +44,9 @@
   translation: Blog
 - id: contact
   translation: Contact
+- id: name
+  translation: Name
+- id: your_message
+  translation: Your message
+- id: phone_optional
+  translation: Phone (Optional)
