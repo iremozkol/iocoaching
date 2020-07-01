@@ -109,7 +109,9 @@ header.navigation .menu-nav .navbar-nav>li>a {
     overflow:hidden;
 }
 
-
+.services-grid {
+    padding: 0 !important;
+}
 
 .services-grid .service-item .block{
     border: 1px solid #CCCCCC;
