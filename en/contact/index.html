@@ -163,15 +163,18 @@
           <form method="POST" class="contact-form" action="https://script.google.com/macros/s/AKfycbx8QClid2t3ZtOQBJR3eJSNy09RqpTNg2iiKQjDb5sNknh-COkX/exec" >
             <div class="block">
               <div class="form-group">
-                <input name="name" type="text" class="form-control" placeholder="Your Name">
+                <input name="name" type="text" class="form-control" placeholder="Name" required="required">
               </div>
               <div class="form-group">
-                <input name="email" type="email" class="form-control" placeholder="Email Address">
+                <input name="email" type="email" class="form-control" placeholder="Email" required="required">
+              </div>
+              <div class="form-group">
+                <input name="email" type="email" class="form-control" placeholder="Phone (Optional)">
               </div>
             </div>
             <div class="block">
               <div class="form-group-2">
-                <textarea name="message" class="form-control" rows="4" placeholder="Your Message"></textarea>
+                <textarea name="message" class="form-control" rows="4" placeholder="Your message" required="required"></textarea>
               </div>
               <button class="btn btn-default" type="submit">Send Message</button>
             </div>
