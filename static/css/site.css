@@ -231,3 +231,12 @@ body p {
     -moz-border-radius: 10px;
     border-radius: 10px;
 }
+
+.contact-form {
+    padding: 40px !important;
+}
+
+.contact-form .google-map .map{
+    margin-top: 40px;
+    height: 360px;
+}
