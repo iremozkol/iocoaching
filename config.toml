@@ -132,9 +132,9 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Irem Ozkol - IOCoaching"
 # Contact Information
-mobile = "+447447752169"
+mobile = "+44 744 7752169"
 email = "info@iocoaching.co.uk"
-location = "London"
+location = "1A Lansdowne Rd, Tottenham, London N17 0LL"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -159,36 +159,25 @@ link = "contact"
 # google map
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAXIFL-z-Teoy50Nso-ZM-prvGdsFL2Vgo&libraries=places"
+map_latitude = "51.5987676"
+map_longitude = "-0.0669526"
 map_marker = "images/marker.png"
 
   
 ############################# social site ########################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
 
 [[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-instagram" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.instagram.com/io.coaching/"
 
 [[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-facebook" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.facebook.com/IOCoaching-102738391421507/"
 
 [[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-linkedin" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.linkedin.com/in/iremozkol/"
 
 
 [languages]
