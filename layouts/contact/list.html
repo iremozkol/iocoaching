@@ -4,7 +4,7 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<section class="contact-form">
+<section class="contact-form-section">
   <div class="container">
 
     <div class="alert alert-success" id="thankyou-message" style="display: none">
@@ -13,7 +13,7 @@
 
     <div class="row">
         <div class="col-md-6 col-sm-12">
-          <form method="POST" action="https://script.google.com/macros/s/AKfycbx8QClid2t3ZtOQBJR3eJSNy09RqpTNg2iiKQjDb5sNknh-COkX/exec" class="contact-form">
+          <form method="POST" class="contact-form" action="https://script.google.com/macros/s/AKfycbx8QClid2t3ZtOQBJR3eJSNy09RqpTNg2iiKQjDb5sNknh-COkX/exec" >
             <div class="block">
               <div class="form-group">
                 <input name="name" type="text" class="form-control" placeholder="Your Name">

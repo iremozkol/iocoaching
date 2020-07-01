@@ -232,11 +232,18 @@ body p {
     border-radius: 10px;
 }
 
-.contact-form {
+.contact-form-section {
     padding: 40px !important;
 }
 
-.contact-form .google-map .map{
-    margin-top: 40px;
+.contact-form-section .google-map .map{
+    margin-top: 70px;
     height: 360px;
+}
+
+.contact-form-section input.form-control,
+.contact-form-section textarea.form-control{
+    background: #ffffff !important;
+    border: 1px solid #0c60a7 !important;
+    font-size: 18px;
 }
