@@ -26,6 +26,7 @@ header.navigation .social-navbar img{
     font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
     font-weight: bold;
     font-style: italic;
+    color: #002566
 }
 
 .navigation .navbar-brand{
@@ -62,6 +63,12 @@ header.navigation .menu-nav .navbar-nav>li>a {
     padding: 20px 20px 80px 20px;
 }
 
+.about .text-row .block h2{
+    padding-top: 10px;
+    margin: 0;
+    text-align: left;
+}
+
 .about .text-row p {
     font-family: 'Roboto', sans-serif;
     font-size: 22px;
@@ -69,7 +76,7 @@ header.navigation .menu-nav .navbar-nav>li>a {
 }
 
 .section-title h2 {
-    font-family: cursive, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;;
+    font-family: 'Varela Round', "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;;
     font-weight: 300;
     letter-spacing: 3px;
     color: #11384d;
@@ -83,6 +90,16 @@ header.navigation .menu-nav .navbar-nav>li>a {
     font-weight: 300 !important;
 }
 
+.slider .hero-desc {
+    font-family: 'Amatic SC', cursive, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    padding: 10px;
+    letter-spacing: 3px;
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 36px !important;
+    color: #ffffff !important;
+    text-align: center;
+}
 
 .bg-2{
     background-position: 0 -60px;
@@ -92,6 +109,41 @@ header.navigation .menu-nav .navbar-nav>li>a {
     overflow:hidden;
 }
 
+
+
+.services-grid .service-item .block{
+    border: 1px solid #CCCCCC;
+}
+
+.services-grid .service-item .service-image{
+    display: block;
+}
+
+.service-item .link-header{
+    display: block;
+    height: 320px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.service-link-text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    color: #ffffff;
+    width: 100%;
+    text-align: left;
+    padding: 10px 20px;
+    font-size: 32px;
+    background: rgba(43, 93, 115, .7);
+}
+
+.service-item .desc{
+    padding: 10px;
+    text-align: left;
+}
 
 body p {
     font-family: Verdana, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
@@ -126,6 +178,8 @@ body p {
 .image-block .border-box{
     height: 120px;
     border: 1px solid #dee2e6;
+    -webkit-border-radius: .25rem;
+    -moz-border-radius: .25rem;
     border-radius: .25rem;
     margin: 0 5px;
 }
@@ -151,4 +205,16 @@ body p {
 .btn-main.btn-main-2:hover {
     background: #3d4747;
     color: #d1f6f5;
+}
+
+.border-radius-5 {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.border-radius-10 {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
 }
