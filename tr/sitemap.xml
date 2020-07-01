@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iremozkol.github.io/iocoaching/blog/</loc>
+    <lastmod>2020-06-30T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iremozkol.github.io/iocoaching/blog/korku-mu-kaygi-mi/</loc>
+    <lastmod>2020-06-30T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iremozkol.github.io/iocoaching/</loc>
+    <lastmod>2020-06-30T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iremozkol.github.io/iocoaching/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://iremozkol.github.io/iocoaching/"
+                />
+  </url>
+  
+  <url>
     <loc>https://iremozkol.github.io/iocoaching/adolescent-psychology/</loc>
     <lastmod>2020-06-09T13:05:29+06:00</lastmod>
     <xhtml:link
@@ -14,21 +49,6 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://iremozkol.github.io/iocoaching/adolescent-psychology/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iremozkol.github.io/iocoaching/</loc>
-    <lastmod>2020-06-09T13:05:29+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iremozkol.github.io/iocoaching/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://iremozkol.github.io/iocoaching/"
                 />
   </url>
   
@@ -213,21 +233,6 @@
   </url>
   
   <url>
-    <loc>https://iremozkol.github.io/iocoaching/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iremozkol.github.io/iocoaching/en/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://iremozkol.github.io/iocoaching/blog/blog-post-1/"
-                />
-  </url>
-  
-  <url>
     <loc>https://iremozkol.github.io/iocoaching/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
@@ -284,21 +289,6 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://iremozkol.github.io/iocoaching/blog/blog-post-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iremozkol.github.io/iocoaching/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iremozkol.github.io/iocoaching/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://iremozkol.github.io/iocoaching/blog/"
                 />
   </url>
   
@@ -374,21 +364,6 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://iremozkol.github.io/iocoaching/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iremozkol.github.io/iocoaching/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iremozkol.github.io/iocoaching/en/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://iremozkol.github.io/iocoaching/tags/technology/"
                 />
   </url>
   
