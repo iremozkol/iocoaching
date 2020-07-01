@@ -134,7 +134,7 @@
 
 
 
-<section class="page-title bg-2" style="background-image: url('https://iremozkol.github.io/iocoaching/images/featue-bg.jpg');">
+<section class="page-title bg-3">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -153,30 +153,39 @@
 
 <section class="contact-form">
   <div class="container">
+
+    <div class="alert alert-success" id="thankyou-message" style="display: none">
+      <h3 style="margin: 20px">Thank you for contacting us – we will get back to you soon!</h3>
+    </div>
+
     <div class="row">
-      <form method="POST" action="#">
         <div class="col-md-6 col-sm-12">
-          <div class="block">
-            <div class="form-group">
-              <input name="user_name" type="text" class="form-control" placeholder="Your Name">
+          <form method="POST" action="https://script.google.com/macros/s/AKfycbx8QClid2t3ZtOQBJR3eJSNy09RqpTNg2iiKQjDb5sNknh-COkX/exec" class="contact-form">
+            <div class="block">
+              <div class="form-group">
+                <input name="name" type="text" class="form-control" placeholder="Your Name">
+              </div>
+              <div class="form-group">
+                <input name="email" type="email" class="form-control" placeholder="Email Address">
+              </div>
             </div>
-            <div class="form-group">
-              <input name="user_email" type="text" class="form-control" placeholder="Email Address">
+            <div class="block">
+              <div class="form-group-2">
+                <textarea name="user_message" class="form-control" rows="4" placeholder="Your Message"></textarea>
+              </div>
+              <button class="btn btn-default" type="submit">Send Message</button>
             </div>
-            <div class="form-group">
-              <input name="user_subject" type="text" class="form-control" placeholder="Subject">
-            </div>
+            </form>
+        </div>
+      
+      <div class="col-md-6 col-sm-12">
+        <div class="block">
+          <div class="google-map">
+            <div class="map" id="map_canvas" data-latitude="51.5223477" data-longitude="-0.1622023" data-marker="/iocoaching/images/marker.png" data-marker-name="Psychotherapy &amp; Counselling - IO Coaching | Turkish Psychologist in London"></div>
           </div>
         </div>
-        <div class="col-md-6 col-sm-12">
-          <div class="block">
-            <div class="form-group-2">
-              <textarea name="user_message" class="form-control" rows="4" placeholder="Your Message"></textarea>
-            </div>
-            <button class="btn btn-default" type="submit">Send Message</button>
-          </div>
-        </div>
-      </form>
+      </div>
+      
     </div>
     <div class="contact-box row">
       <div class="col-md-6 col-sm-12">
@@ -204,19 +213,10 @@
           </ul>
         </div>
       </div>
-      
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <div class="google-map">
-            <div class="map" id="map_canvas" data-latitude="51.5223477" data-longitude="-0.1622023" data-marker="/iocoaching/images/marker.png" data-marker-name="Psychotherapy &amp; Counselling - IO Coaching | Turkish Psychologist in London"></div>
-          </div>
-        </div>
-      </div>
-      
     </div>
   </div>
 </section>
-
+<script data-cfasync="false" type="text/javascript" src="https://iremozkol.github.io/iocoaching/js/contact-form-handler.js"></script>
 <footer class="footer">
 	<div class="container">
 		<div class="row">
