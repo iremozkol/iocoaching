@@ -4,7 +4,7 @@ description: ""
 subtitle : ""
 date: 2019-12-23T13:05:29+06:00
 draft: false
-bg_image: "individual_counselling.jpg"
+bg_image: "images/content/individual_counselling.jpg"
 ---
 
 

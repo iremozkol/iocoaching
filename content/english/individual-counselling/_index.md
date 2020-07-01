@@ -2,9 +2,8 @@
 title: "Individual Counselling"
 description: ""
 subtitle : ""
-date: 2020-03-23T13:05:29+06:00
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/content/individual_counselling.jpg"
 ---
 
 ## Individual Counselling ##
