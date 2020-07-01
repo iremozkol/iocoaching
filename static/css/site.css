@@ -241,6 +241,17 @@ body p {
     height: 360px;
 }
 
+.contact-form-section .contact-form .btn-default{
+    background: #055ba3;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.contact-form-section .btn-default[disabled]:hover{
+    background-color: #818181;
+    border-color: #fff;
+}
+
 .contact-form-section input.form-control,
 .contact-form-section textarea.form-control{
     background: #ffffff !important;
