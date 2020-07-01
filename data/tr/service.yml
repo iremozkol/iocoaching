@@ -3,18 +3,18 @@ service:
   title : "Servislerimiz"
   description : ""
   service_item:
-    - image : "images/content/child_header.jpg"
+    - image : "images/content/individual_counselling.jpg"
       name : individual_counselling
       url : individual-counselling
       content: "Bireysel Psikolojik danışmada kendi içinde yasadığınız tıkanıklıkların ve problemlerin çözümlenmesine odaklanir ve bireye sorunlarla başa çıkma becerisi kazandırılır. Psikolojik danışma ile birlikte kendinizi"
-
-    - image : "images/content/adolescent_header.jpg"
-      name : adolescent
-      url : "adolescent-psychology"
-      content: "Ergenlik dönemi çocuklukla yetiskinlik arasında bir köprü görevi kuran ve bireyin kişilik oluşumunda büyük etkisi olan bir dönemdir. Hem bedensel hem de duygusal değişimlerdeki hız bireyde"
 
     - image : "images/content/child_header.jpg"
       name : child_counseling
       url : "child-counseling"
       content: "Psikolojik gelişimin en temel noktasında çocuk psikoloji yer alır. Özellikle 0-6 yaş arasında cevap verilmeyen ve göz ardı edilen problemler ergenlikteki, yetişkinlikteki sorunları tetiklemekte ve temel"
+
+    - image : "images/content/adolescent_header.jpg"
+      name : adolescent
+      url : "adolescent-psychology"
+      content: "Ergenlik dönemi çocuklukla yetiskinlik arasında bir köprü görevi kuran ve bireyin kişilik oluşumunda büyük etkisi olan bir dönemdir. Hem bedensel hem de duygusal değişimlerdeki hız bireyde"
 

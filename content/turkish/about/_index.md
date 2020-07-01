@@ -2,11 +2,10 @@
 title: "About"
 description: ""
 draft: false
-bg_image: "images/child-psychologists.jpg"
 profile_photo: "images/company/about_profile.jpg"
 ---
 
-Merhabalar,
+## Merhabalar,
 
 
 Ruh sağlığı üzerine bulunan 3 yılı aşkin deneyimimle birlikte Psikolojik danışma ve terapi hizmeti vermekteyim. 1992 yılında Gaziantep’te doğdum. Lisans egitimimi İstanbul Yeditepe Üniversitesi'nde Rehberlik ve Psikolojik Danışmanlık bölümünde Onur derecesi ile tamamladım. Sonrasında ise Klinik Çocuk Psikolojisi alanında yüksek lisans eğitimimi İngiltere/Anglia Ruskin Üniversitesinde tamamladim. Eğitim hayatım ve meslek hayatım süresince bir çok seminerlere ve kurslara katılarak mesleğimde tecrübe kazanıp kendimi geliştirme fırsatı yakaladım. Özel Eğitim ve Rehabilitasyon merkezlerinde stajyer olarak görev aldım. Bununla beraber bir çok okul ve kliniklerde staj yaptim. 2015-2016 yılları arasında İstanbul Kartal Anadolu Adalet Sarayı'nda Aile Mahkemelerinde yer alarak uzman raporları yazılmasında görev aldım. Meslek hayatıma özel bir okulda Psikolojik Danışman olarak başladıktan sonra, bireysel olarak psikoterapi hizmeti vermeye basladim. 

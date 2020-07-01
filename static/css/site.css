@@ -69,14 +69,18 @@ header.navigation .menu-nav .navbar-nav>li>a {
     text-align: left;
 }
 
-.about .text-row p {
-    font-family: 'Roboto', sans-serif;
+.about .about-content #merhabalar {
+    margin-bottom: 30px;
+}
+
+.text-row p {
+    font-family: 'Roboto', "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
     font-size: 22px;
     font-weight: 300;
 }
 
 .section-title h2 {
-    font-family: 'Varela Round', "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;;
+    font-family: 'Varela Round', "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
     font-weight: 300;
     letter-spacing: 3px;
     color: #11384d;
@@ -85,6 +89,13 @@ header.navigation .menu-nav .navbar-nav>li>a {
 
 .slider .hero-title {
     padding: 10px;
+    background: rgba(43, 93, 115, .7);
+    color: #ffffff;
+    font-weight: 300 !important;
+}
+
+
+.bg-3{
     background: rgba(43, 93, 115, .7);
     color: #ffffff;
     font-weight: 300 !important;
@@ -109,7 +120,9 @@ header.navigation .menu-nav .navbar-nav>li>a {
     overflow:hidden;
 }
 
-
+.services-grid {
+    padding: 0 !important;
+}
 
 .services-grid .service-item .block{
     border: 1px solid #CCCCCC;

@@ -68,19 +68,24 @@ name = "services"
 hasChildren = true
 
   [[menu.main]]
-  parent = "services"
-  name = "individual_counselling"
-  URL = "individual-counselling"
+      parent = "services"
+      name = "individual_counselling"
+      URL = "individual-counselling"
+      weight = 1
 
   [[menu.main]]
-  parent = "services"
-  name = "child_counseling"
-  URL = "child-counseling"
+      parent = "services"
+      name = "child_counseling"
+      URL = "child-counseling"
+      weight = 2
 
   [[menu.main]]
-  parent = "services"
-  name = "adolescent"
-  URL = "adolescent-psychology"
+      parent = "services"
+      name = "adolescent"
+      URL = "adolescent-psychology"
+      weight = 3
+
+
 
 [[menu.main]]
 name = "blog"
