@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://iremozkol.github.io/iocoaching"
+baseURL = "http://iocoaching.co.uk"
 title = "Psychotherapy & Counselling - IO Coaching | Turkish Psychologist in London"
 profile = ''
 theme = "airspace-hugo"
