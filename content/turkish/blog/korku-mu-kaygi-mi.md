@@ -2,7 +2,7 @@
 title: "FARKI ANLAMAK: KORKU MU KAYGI MI?"
 date: 2020-06-30T11:07:10+06:00
 author: Uzman Psikolog İrem Özkol
-image : "images/blog/blog-post-2.jpg"
+image : "images/content/individual_counselling.jpg"
 draft: false
 type: "post"
 ---

@@ -48,3 +48,7 @@
   translation: Mesajınız
 - id: phone_optional
   translation: Telefonunuz (İsteğe bağlı)
+- id: appointment
+  translation: Randevu Al
+- id: fees
+  translation: Ücretler

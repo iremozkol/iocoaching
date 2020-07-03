@@ -2,7 +2,6 @@
 title: "About"
 description: ""
 draft: false
-bg_image: "images/child-psychologists.jpg"
 profile_photo: "images/company/about_profile.jpg"
 ---
 

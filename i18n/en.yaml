@@ -50,3 +50,7 @@
   translation: Your message
 - id: phone_optional
   translation: Phone (Optional)
+- id: appointment
+  translation: Schedule Appointment
+- id: fees
+  translation: Fees

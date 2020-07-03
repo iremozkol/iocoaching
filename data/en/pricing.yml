@@ -2,44 +2,32 @@
 pricing:
   enable : true
   pricing_table:
-    # pricing table loop
-    - name : "Basic"
-      price: "$99"
-      content : "Perfect for single freelancers who work by themselves"
-      link : "#"
+    - name : "Single Session"
+      price: "£65"
+      content : ""
+      link : "contact"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - Individual Counselling
+        - Child Counselling
+        - Adolescent Psychology
         
-    # pricing table loop
-    - name : "Premium"
-      price: "$199"
-      content : "Suitable for small businesses with up to 5 employees"
-      link : "#"
+    - name : "Four Sessions"
+      price: "£240"
+      content : ""
+      link : "contact"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - Individual Counselling
+        - Child Counselling
+        - Adolescent Psychology
         
-    # pricing table loop
-    - name : "Advance"
-      price: "$299"
-      content : "Suitable for large businesses with unlimited employees"
-      link : "#"
+    - name : "Online Therapy Session"
+      price: "£50"
+      content : ""
+      link : "contact"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - Individual Counselling
+        - Child Counselling
+        - Adolescent Psychology
         
 ############################# call to action #################################
 cta:

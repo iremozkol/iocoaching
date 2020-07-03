@@ -86,6 +86,10 @@ hasChildren = true
       weight = 3
 
 
+[[menu.main]]
+name = "fees"
+URL = "fees"
+weight = 3
 
 [[menu.main]]
 name = "blog"
@@ -100,24 +104,19 @@ weight = 6
 
 # footer menu
 [[menu.footer]]
-name = "About"
+name = "about"
 URL = "about"
 weight = 1
 
 [[menu.footer]]
-name = "Service"
-URL = "service"
+name = "blog"
+URL = "blog"
 weight = 3
 
 [[menu.footer]]
-name = "Pricing"
-URL = "pricing"
+name = "Fees"
+URL = "fees"
 weight = 4
-
-[[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
 
 [[menu.footer]]
 name = "Contact"
@@ -138,7 +137,7 @@ location = "1A Lansdowne Rd, Tottenham, London N17 0LL"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # Your ID# search
+google_analitycs_id = "UA-171529951-1" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 domain='http://iocoaching.co.uk'

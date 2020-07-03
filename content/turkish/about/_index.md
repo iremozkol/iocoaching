@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Hakkımızda"
 description: ""
 draft: false
 profile_photo: "images/company/about_profile.jpg"

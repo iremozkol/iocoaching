@@ -49,7 +49,7 @@
           <ul class="address-block">
             <li><i class="ion-ios-location-outline"></i><a href="https://goo.gl/maps/mrCDw3jeuGWgqQLz9" target="_blank" class="btn btn-link" style="padding: 0">{{i18n "location"}}: {{ .Site.Params.location }}</a></li>
             <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}:  <span>{{ .Site.Params.email }}</span></li>
-            <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}}: {{ .Site.Params.mobile }}</li>
+            <li><i class="ion-ios-telephone-outline"></i><a href="tel:{{ .Site.Params.mobile }}">{{i18n "phone"}}: {{ .Site.Params.mobile }}</a></li>
           </ul>
           <ul class="social-icons">
             {{ range .Site.Params.social }}
