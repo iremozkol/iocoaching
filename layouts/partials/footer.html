@@ -4,13 +4,24 @@
 			<div class="col-md-12">
 				<div class="footer-manu">
 					<ul>
-            {{ range .Site.Menus.footer }}
-            <li><a href="{{ .URL | absURL }}">{{ if i18n .Name }}{{ i18n .Name }}{{ else }} {{ .Name }} {{ end }}</a></li>
-            {{ end }}
+						{{ range .Site.Menus.footer }}
+						<li><a href="{{ .URL | absURL }}">{{ if i18n .Name }}{{ i18n .Name }}{{ else }} {{ .Name }} {{ end }}</a></li>
+						{{ end }}
+						{{ range .Site.Params.social }}
+						<li><a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a></li>
+						{{ end }}
 					</ul>
 				</div>
+					<div class="block">
+						<ul class="address-block">
+							<li><i class="ion-ios-location-outline"></i><a href="https://goo.gl/maps/mrCDw3jeuGWgqQLz9" target="_blank" class="btn btn-link" style="padding: 0">{{i18n "location"}}: {{ .Site.Params.location }}</a></li>
+							<li><i class="ion-ios-email-outline"></i>{{i18n "email"}}:  <span>{{ .Site.Params.email }}</span></li>
+							<li><i class="ion-ios-telephone-outline"></i><a href="tel:{{ .Site.Params.mobile }}">{{i18n "phone"}}: {{ .Site.Params.mobile }}</a></li>
+						</ul>
+					</div>
 				<p class="copyright">{{ .Site.Params.copyright | markdownify }}</p>
 			</div>
+
 		</div>
 	</div>
 </footer>

@@ -17,8 +17,8 @@
   <meta property="og:image" content="{{ .Site.Params.Logo | absURL }}">
 
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+  <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Play:wght@400;700&family=Varela+Round&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Varela+Round&display=swap" rel="stylesheet">
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }}">
