@@ -21,7 +21,7 @@ pricing:
         - Adolescent Psychology
         
     - name : "Online Therapy Session"
-      price: "£50"
+      price: "£65"
       content : ""
       link : "contact"
       services:
