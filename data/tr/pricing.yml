@@ -3,7 +3,7 @@ pricing:
   enable : true
   pricing_table:
     - name : "Tek seans"
-      price: "£65"
+      price: "£80"
       content : ""
       link : "contact"
       services:
@@ -12,7 +12,7 @@ pricing:
         - Adolescent Psychology
 
     - name : "4 Seans"
-      price: "£240"
+      price: "£300"
       content : ""
       link : "contact"
       services:
