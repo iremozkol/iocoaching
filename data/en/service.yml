@@ -6,15 +6,15 @@ service:
     - image : "images/content/individual_counselling.jpg"
       name : individual_counselling
       url : individual-counselling
-      content: "Bireysel Psikolojik danışmada kendi içinde yasadığınız tıkanıklıkların ve problemlerin çözümlenmesine odaklanir ve bireye sorunlarla başa çıkma becerisi kazandırılır. Psikolojik danışma ile birlikte kendinizi"
+      content: "Individual Psychological counselling focuses on the resolution of problems that you experience in yourself and gives the individual the ability to deal with these challenges. With psychological counselling, you are provided with the support in finding a way to understand yourself, to increase your quality of life by enhancing self-awareness to live a more harmonious and healthy life."
 
     - image : "images/content/child_header.jpg"
       name : child_counseling
       url : "child-counseling"
-      content: "Psikolojik gelişimin en temel noktasında çocuk psikoloji yer alır. Özellikle 0-6 yaş arasında cevap verilmeyen ve göz ardı edilen problemler ergenlikteki, yetişkinlikteki sorunları tetiklemekte ve temel"
+      content: "Child psychology is at the heart of psychological development.Problems that are not acknowledged and ignored between the ages of 0-6, stimulate and build the foundations for problems in adolescence and adulthood."
 
     - image : "images/content/adolescent_header.jpg"
       name : adolescent
       url : "adolescent-psychology"
-      content: "Ergenlik dönemi çocuklukla yetiskinlik arasında bir köprü görevi kuran ve bireyin kişilik oluşumunda büyük etkisi olan bir dönemdir. Hem bedensel hem de duygusal değişimlerdeki hız bireyde"
+      content: "Adolescence is a period that creates a bridge between childhood and adulthood and has a significant effect on the individuals' personality.The high rate in physical and emotional changes can cause conflicts in the individual."
 

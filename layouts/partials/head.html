@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <title>{{ .Title }}</title>
+  <title>{{ if eq .Lang "tr" }} {{ .Site.Params.title_prefix_tr }} {{ end }}{{ if eq .Lang "en" }}{{ .Site.Params.title_prefix_en }}{{ end }} {{ .Title }}</title>
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,7 +9,7 @@
 
   <meta name="title" content="{{ .Title }}">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
-  <meta name="keywords" content="{{ .Site.Params.meta_keywords_tr }}">
+  <meta name="keywords" content="{{ if eq .Lang "tr" }} {{ .Site.Params.meta_keywords_tr }} {{ end }}{{ if eq .Lang "en" }}{{ .Site.Params.meta_keywords_en }}{{ end }}">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="Psychotherapy & Counselling">

@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image : "images/company/banner.jpg"
   title : "CHILD,ADOLESCENT, ADULT PSYCHOLOGY AND PSYCHOTHERAPY SERVİCES"
-  content : "-- YAŞANTINIZI YENİDEN KEŞFETMEYE --"
+  content : "-- REDISCOVER YOUR LIFE --"
   button:
     enable : true
     label : "Schedule Appointment"
@@ -13,26 +13,23 @@ banner:
 about:
   enable : true
   title : "Hello"
-  content_1 : "Psikoterapi kendiniz ile ilgili değer yargılarınızı, inanç ve
-                            düşünce biçimlerinizi bir profesyonel yardımıyla
-                            anlamlandırdığınız ve keşfettiginiz bir süreçtir."
-  content_2: "Danışanla birlikte bir işbilirliği içerisinde
-                           yürütülmesinin temel alındığı terapi sürecinde esas
-                           önemli olanın her bireyin sürecinin, ihtiyacının ve
-                           yeteneklerinin değişkenliğinin farkinda olmak ve
-                           buna göre hareket etmektir."
-  content_3: "Sunduğum terapi desteği ile hem kendinizle hem de
-                           baskalarıyla olan duygusal ve davranışsal sorunların
-                           çözümünü bulabileceksiniz. Bu süreçte kişisel
-                           yasantılarınızı hiçbir yargılama olmadan gizlilik ve
-                           güven duygusu içerisinde paylaşıp
-                           keşfedebileceksiniz."
-  content_4 : "Her bireyin zaman zaman zorlu dönemlerle baş etmekte
-             zorlanabileceğini ve bunun normal bir durum olduğunu
-             unutmayın. Kendiniz için ilk adımı atmaktan ve yardım
-             istemekten asla çekinmeyin."
+  content_1 : "Psychotherapy is a process wherein you explore and understand your own value judgments, 
+              beliefs, and thought patterns with the guidance of a professional."
 
-  image : "images/portfolio/homepage_profile.jpg"
+  content_2: "The therapy process is rooted in collaboration with the client. It's essential to recognize 
+              the uniqueness of each individual's journey, needs, and capabilities, and to respond appropriately."
+
+  content_3: "Through the therapeutic support I offer, you can discover solutions to both your own and others' 
+              emotional and behavioral challenges. During this journey, you can share and delve into your personal 
+              experiences in a confidential and trusting environment, free from judgment."
+
+  content_4 : "It's important to remember that everyone can struggle with challenging periods now and then; it's a 
+              natural part of life. Never hesitate to take the first step for your well-being and seek help."
+
+  name : "Irem Ozkol"
+  business_title : "Clinical Psychologist (B.A, MSc, MBPsS, MBACP)"
+
+  image : "images/company/about_profile_2.jpg"
 
 ############################# Service ############################
 service:

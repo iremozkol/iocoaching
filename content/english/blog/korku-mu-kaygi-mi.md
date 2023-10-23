@@ -1,76 +1,70 @@
 ---
-title: "FARKI ANLAMAK: KORKU MU KAYGI MI?"
+title: "UNDERSTANDING THE DIFFERENCE: FEAR OR ANXIETY?"
 date: 2020-06-30T11:07:10+06:00
-author: Uzman Psikolog İrem Özkol
+author: Clinical Psychologist Irem Ozkol
 image : "images/content/individual_counselling.jpg"
 draft: false
 type: "post"
 ---
 
 
-Günlük yaşamımızda her ne kadar kaygı, korku kavramlarını benzer mana kullansak bile özellikle kaygı bozukluklarının tanımı ve 
-teşhisi noktasında arasındaki farkın anlaşılması büyük bir önem taşımaktadır. Peki nedir bu iki duygu arasındaki temel farklılıklar?
+Even though we use the concepts of anxiety and fear with similar meanings in our daily lives, especially the definition of anxiety disorders and 
+It is of great importance to understand the difference between them in terms of diagnosis. So what are the main differences between these two emotions?
 
-## Korku nedir?
+## What is fear?
 
-Korku aniden ortaya çıkan ve somut bir tehlike karşısında kendini gösteren bir duygudur. Tehlikenin kaynağı belirgindir. 
-Örneğin, ‘’ Köpeklerden korkarım’’. Korkunun kaynağını oluşturan tehlike somut olarak ‘’köpek’’ diye gösterilir. 
-Diğer bir deyişle korku aslında otonom sinir sistemimizin ‘’savaş ya da kaç’’ mekanizmasını devreye soktuğu bir durumdur.
-
-
-Korkunun bilişşel kısmının dışında fizyolojik olarak da yarattığı etkiler mevcuttur. Soluk alıp verme ve kalp atış hızında 
-değişikler meydana gelir. Ayrıca, sindirim sisteminin yavaşlaması, ellerimizin titremesi, gözbebeklerimizin büyümesi ve 
-vücudumuzun terlemesi gibi fizyolojik tepkiler de oluşur.
+Fear is an emotion that arises suddenly and manifests itself in the face of a concrete danger. The source of the danger is clear. 
+For example, '' I am afraid of dogs''. The danger that is the source of fear is concretely represented as "dog". 
+In other words, fear is actually a state in which our autonomic nervous system activates the "fight or flight" mechanism.
 
 
-## Kaygı Nedir?
+Apart from the cognitive part of fear, there are also physiological effects. Breathing and heart rate changes occur. Also, the digestive system slows down, our hands tremble, our pupils dilate and There are also physiological reactions, such as our body sweating.
 
 
-Korkudan çok daha fazla nahoş olarak adlandırılabilecek duygu ve düşüncelerin daha karışık şekilde kendini göstermesidir. 
-Kaygı duygusunda tehlikenin ne olduğunu ya da nereden geldiğini somut olarak tam manasıyla belirtemeyiz. Örneğin, 
-sevdiğin birinin sağlığı üzerine kaygılanmak gibi. Kaygı duygusu kendini daha çok soyut olarak göstermektedir. 
-Kaygıda her ne kadar savaş ya da kaç mekanizması etkinleşmese de, beklenen tepkinin gerçekleşme ihtimaline karşı 
-bireyi savaş ya da kaç tepkisine hazırlar. 
+## What is Anxiety?
 
 
-Kaygının fizyolojik tepkileri tıpkı korku duygu durumunda olduğu gibi benzerlikler içerirken kaygı da aynı zamanda 
-buna ilaveten uyku problemleri ve kas gerginliği de ortaya çıkmaktadır.
+It is a more complex manifestation of feelings and thoughts that can be called much more unpleasant than fear. 
+In anxiety, we cannot concretely specify what the danger is or where it is coming from. For example, worrying about the health of a loved one. The feeling of anxiety manifests itself more abstractly.
+
+Although the fight-or-flight mechanism is not activated in anxiety, it is a reaction to the possibility of the expected reaction. Prepares the individual for a fight or flight response. 
 
 
-## Kaygının Derecesinin Önemi
+While the physiological reactions of anxiety are similar to those of fear, anxiety is also 
+In addition, sleep problems and muscle tension also occur.
 
 
-Kaygı duygusu bireylere hep olumsuz bir çağrışım yapsa da bazı zamanlarda güdüleyici olma özelliğine sahiptir. 
-Hafif ve orta dereceli kaygı hissetmek kimi zamanlarda değerli olabilir. Örneğin bir gencin okul başarısı hakkındaki kaygısı 
-onu sınavlara hazırlanma noktasında daha odaklı bir hale getirir ve öğrenme performansının artmasına katkı sağlar. 
+## The Importance of the Degree of Anxiety
 
-Şiddetli ya da kronik şekilde kendini gösteren kaygı ise bireyin sosyal, eğitimsel ve mesleki açıdan performansında 
-problemler meydana getirmektedir ve uyumsuzluklara sebep olmaktadır. Bu nedenle kaygının derecesini ve sürekliliğini 
-bilmek ve gözlemleyebilmek önemlidir.
+Although the feeling of anxiety always has a negative connotation for individuals, it can be motivating at times. Feeling mild to moderate anxiety can be valuable at times. For example, a young person's anxiety about school success It makes them more focused on preparing for exams and contributes to an increase in learning performance. 
 
-
-## Kaygı ve Korku Arasındaki Farklar Nelerdir?
-
-Kaygı ve korkunun birbirinden ayrımı zordur. Ancak temel farklılıklar kendini tehlikenin somutluğu ve soyutluğu arasında ayrıştırılabilir. 
-
-Korku daha çok anlık bir tepki iken kaygı gelecekte oluşabilecek durum ve tehlikelere yönelik bedensel ve düşüncesel değişiklikleri içerir.
+Anxiety that manifests itself in a severe or chronic form, on the other hand, can have a negative impact on an individual's social, educational and professional performance. 
+It creates problems and causes disharmony. Therefore, the degree and persistence of anxiety 
+It is important to know and be able to observe.
 
 
-## Kaygı Bozuklukları Nedir ve Türleri Nelerdir?
+## What are the Differences Between Anxiety and Fear?
 
-Kaygı bozuklukları insani yetersiz kılan yoğunlukta ve gerçekci olmayan korku ve kaygı durumudur. 
-Bu kaygı seviyesi şiddetli ve uzun süren bir durumda devam etmeye başladığında kaygı bozukluklarından bahsedilmeye başlanabilir. 
-Bir kişi birden fazla kaygı bozukluğu yaşıyor olabilir. Yapılan araştırmalar aynı zamanda kaygı bozukluğu sergileyen birçok 
-kişinin eş zamanlı olarak ya da yaşamlarının bir döneminde depresyon da yaşamış olduğunu göstermektedir 
-(Brown & Barlow, 2001; Kessler, Berglund ve diğerleri). 
+Anxiety and fear are difficult to distinguish. However, the main differences can be distinguished between the tangibility and intangibility of the danger. 
 
-Kaygı bozukluklarının farklı alt tipleri bulunmaktadır. Bunlar: Genelleştirilmiş Kaygı Bozukluğu, Spesifik Kaygı Bozukluğu, 
-Sosyal Fobi, Akut Stress Bozukluğu, Obsesif-Kompülsif Bozukluk, Travma Sonrası Stress Bozukluğu olarak farklı tiplere ayrılmaktadır. 
+While fear is more of an immediate reaction, anxiety involves bodily and mental changes in response to future situations and dangers.
 
-Bu farklı bozuklukları gösteren kaygı belirtilerinin şiddeti, yoğunluğuna göre değişkenlik gösterebilirken; korku/panik 
-duyguları nesne ya da durumlara göre de farklılık göstermektedirler.           
 
-### KAYNAKÇA
+## What are anxiety disorders and what are their types?
+
+Anxiety disorders are a state of intense and unrealistic fear and anxiety that renders a person incapable. 
+When this level of anxiety begins to persist in a severe and prolonged state, anxiety disorders can begin to be mentioned. 
+A person may experience more than one anxiety disorder. Research has also shown that many people with anxiety disorders 
+the person has also experienced depression, either concurrently or at some point in their lives 
+(Brown & Barlow, 2001; Kessler, Berglund et al.) 
+
+There are different subtypes of anxiety disorders. These are: Generalized Anxiety Disorder, Specific Anxiety Disorder, 
+Social Phobia, Acute Stress Disorder, Obsessive-Compulsive Disorder, Post Traumatic Stress Disorder are differentiated into different types. 
+
+While the severity of anxiety symptoms in these different disorders may vary according to their intensity; fear/panic 
+emotions also differ according to objects or situations.        
+
+### REFERENCES
 
 1. Brown, T. A. & Barlow, D. H. (2001). Casebook in abnormal psychology (2nd ed.). Belmont, CA: Wadsworth/ Thomson Learning.
 2. Kessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R., & Walters, E. E. (2005). Lifetime prevalence and age-of-onset-distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Arch. Gen. Psychiat., 62, 593-602. 

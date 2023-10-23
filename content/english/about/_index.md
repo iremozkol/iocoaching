@@ -2,18 +2,18 @@
 title: "About"
 description: ""
 draft: false
-profile_photo: "images/company/about_profile.jpg"
+profile_photo: "images/portfolio/about_profile.jpg"
 ---
 
-I am a psychological counselor with over 3 years of experience in mental health. While I am based in Tottenham Hale, I am able to provide virtual appointments over Skype if you prefer. I obtained my undergraduate degree with honor degree at Yeditepe University in Istanbul, in the department of psychological counseling and guidance. I completed my master’s degree at Anglia Ruskin University in Cambridge, undertaking clinical child psychology. 
+I am Clinical Psychologist İrem Özkol. I hold an Honors degree in Guidance and Psychological Counseling from Istanbul Yeditepe University and a Master’s degree in Clinical Child Psychology from Anglia Ruskin University in the UK. I have been serving in the field of mental health for over three years.
 
-I started my career in 2013. I am trained in involve SEN children, as I worked at a private school for children with autism, dyslexia, ADHD and Down syndrome in Gaziantep, Turkey during 2013-2014 at Sehit Sahinbey Special Education School. In 2016, I worked as an intern at a family Court in Istanbul, Turkey. I was able to provide reports and observations on children who committed crimes. This role involved being able to differentiate whether these problems stemmed from mental health or family problems. Furthermore, I undertook a year of work placement in Istanbul at Cagdas Ogretim, training as a psychological counselor from 2016-2017.
-Currently, I am still providing psychotherapeutic sessions to clients based in Tottenham, London. The areas of therapy I am expertise in involve anger management, stress, anxiety, grief, loss, and adjustment problems for migrants. Especially, One specific aspect of support that I am trained in is with child and adolescent consultants. 
+Throughout my academic and professional journey, I have attended numerous seminars and courses to enhance my expertise. I gained practical experience through internships at Special Education and Rehabilitation centers, as well as at various schools and clinics. Additionally, I served as a specialist report writer for the Family Courts at the Istanbul Kartal Anadolu Justice Palace between 2015 and 2016.
 
-I am a member of the British Psychology Society (BPS) and British Association for Counselling and Psychotherapy (BACP), and thus enabled to work within the framework of Professional Ethics and Standards. 
+My personal and professional interests focus deeply on the impact of the bonds formed between an individual and their caregivers on their future quality of life. In this context, my master's thesis explored "Attachment Styles and Interpersonal Void." 
 
+My commitment to professionalism and ethical standards is reinforced by my memberships in the British Psychological Society and the British Association for Counselling and Psychotherapy.
 
-*Kind Regards*
+**Irem Ozkol**
 
-Irem Ozkol ( B.A, MSc, MBPsS, MBACP)
-   
+*Uzman Psikolog ( B.A, MSc, MBPsS, MBACP)*
+

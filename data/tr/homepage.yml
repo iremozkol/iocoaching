@@ -14,25 +14,28 @@ about:
   enable : true
   title : "Merhabalar"
   content_1 : "Psikoterapi kendiniz ile ilgili değer yargılarınızı, inanç ve
-                            düşünce biçimlerinizi bir profesyonel yardımıyla
-                            anlamlandırdığınız ve keşfettiginiz bir süreçtir."
+              düşünce biçimlerinizi bir profesyonel yardımıyla
+              anlamlandırdığınız ve keşfettiginiz bir süreçtir."
+
   content_2: "Danışanla birlikte bir işbilirliği içerisinde
-                           yürütülmesinin temel alındığı terapi sürecinde esas
-                           önemli olanın her bireyin sürecinin, ihtiyacının ve
-                           yeteneklerinin değişkenliğinin farkinda olmak ve
-                           buna göre hareket etmektir."
+             yürütülmesinin temel alındığı terapi sürecinde esas
+             önemli olanın her bireyin sürecinin, ihtiyacının ve
+             yeteneklerinin değişkenliğinin farkinda olmak ve
+             buna göre hareket etmektir."
+
   content_3: "Sunduğum terapi desteği ile hem kendinizle hem de
-                           baskalarıyla olan duygusal ve davranışsal sorunların
-                           çözümünü bulabileceksiniz. Bu süreçte kişisel
-                           yasantılarınızı hiçbir yargılama olmadan gizlilik ve
-                           güven duygusu içerisinde paylaşıp
-                           keşfedebileceksiniz."
+             baskalarıyla olan duygusal ve davranışsal sorunların
+             çözümünü bulabileceksiniz. Bu süreçte kişisel
+             yasantılarınızı hiçbir yargılama olmadan gizlilik ve
+             güven duygusu içerisinde paylaşıp
+             keşfedebileceksiniz."
+
   content_4 : "Her bireyin zaman zaman zorlu dönemlerle baş etmekte
              zorlanabileceğini ve bunun normal bir durum olduğunu
              unutmayın. Kendiniz için ilk adımı atmaktan ve yardım
              istemekten asla çekinmeyin."
 
-  image : "images/portfolio/homepage_profile.jpg"
+  image : "images/company/about_profile_2.jpg"
 
 ############################# Service ############################
 service:

@@ -12,7 +12,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
+            <a class="navbar-brand" href="{{ site.Home.Permalink }}">
               <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="img-responsive">
               <div class="logo-text hidden-xs">Psychotherapy & Counselling</div>
             </a>
@@ -38,7 +38,7 @@
               </div>
               <div class="col-md-8 menu-nav">
                 <ul class="nav navbar-nav navbar-right">
-                  <li><a href="{{ .Site.BaseURL | absLangURL }}">{{ .Site.Params.home }} </a></li>
+                  <li><a href="{{ site.Home.Permalink }}">{{ .Site.Params.home }} </a></li>
 
                   {{ range .Site.Menus.main }}
                   {{ if .HasChildren }}
